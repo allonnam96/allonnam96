@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://allon-porfolio.vercel.app/](https://allon-porfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [LIVE]([https://allonnam.netlify.app/])
 
-- 📫 How to reach me **allon.nam96@gmail.com**
+- 📫 How to reach me **allonhnam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
