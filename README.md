@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://allonnam.netlify.app/]([https://allonnam.netlify.app/])
+- 👨‍💻 All of my projects are available at [Allon's Portfolio](https://allonnam.netlify.app/)
 
 - 📫 How to reach me **allonhnam@gmail.com**
 
