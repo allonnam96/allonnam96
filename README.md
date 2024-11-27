@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Allon's Portfolio](https://allonnam.netlify.app/)
 
-- 📫 How to reach me **allonhnam@gmail.com**
+- 📫 How to reach me **allonhnam@gatech.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
